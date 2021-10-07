@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "node-telegram-bot-api": "^0.54.0",
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.13",
+    "youtube-dl-exec": "^1.2.14"
   }
 }
